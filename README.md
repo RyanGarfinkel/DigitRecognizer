@@ -4,9 +4,7 @@ The goal of this project is to train a convolutional neural network (CNN) to acc
 
 ## Demo
 
-<video width="600" controls>
-    <source src="demo.mov" type="video/mp4">
-</video>
+<img src="demo.gif" alt="Demo of Digit Recognizer" width="500">
 
 ## Setup
 

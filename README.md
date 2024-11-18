@@ -16,7 +16,7 @@ The goal of this project is to train a convolutional neural network (CNN) to acc
 3. Activate the virtual environment.
 4. Install the required dependencies with the following command:
     ```bash
-    pip install -r requirement.txt
+    pip install -r requirements.txt
     ```
 
 ## Usage

@@ -20,7 +20,7 @@ The goal of this project is to train a convolutional neural network (CNN) to acc
     ```
 
 ## Usage
-1. Open the Jupyter Notebool `model.ipynb`.
+1. Open the Jupyter Notebook `model.ipynb`.
 2. Run all cells in the notebook to train the model. The model is saved as `model.keras` in the last cell.
 3. Run the Pygame app to use the model live using the following command:
     ```bash
